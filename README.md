@@ -1,11 +1,12 @@
 ## robosys__kadai2
 
 ## 作成者
-
 上田隆一先生のコードをもとに改変し、自分で作成しました。
 
+## youtube URL
+https://youtu.be/tSVnBTGn_rA
 
-# 動作環境
+## 動作環境
 OS:Ubuntu 20.04
 
 ## インストール
@@ -16,7 +17,6 @@ $ git clone https://github.com/KatiMaiko/robosys_kadai2.git
 ```
 
 ## 内容
-
 count.pyにより現在時刻（秒）が出力される
 count.pyではえんちゃん0匹と出力されるが、twice.pyではえんちゃん100（id）匹と出力される。
 twice.pyではcount.pyで出力したデータとidを受け取り出力する。
@@ -41,5 +41,3 @@ twice.pyではcount.pyで出力したデータとidを受け取り出力する�
 ## 協力者
 ・小村岳都
 
-## youtube URL
-https://youtu.be/tSVnBTGn_rA
