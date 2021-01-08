@@ -18,7 +18,7 @@ $ git clone https://github.com/KatiMaiko/robosys_kadai2.git
 
 
 ## 内容
-count.pyにより現在時刻（秒）が出力される
+count.pyにより現在時刻（秒）が出力される\n
 count.pyではえんちゃん0匹と出力されるが、twice.pyではえんちゃん100（id）匹と出力される。
 twice.pyではcount.pyで出力したデータとidを受け取り出力する。
 
