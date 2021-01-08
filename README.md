@@ -8,7 +8,7 @@
 # 動作環境
 OS:Ubuntu 20.04
 
-## インストール法
+## インストール
 ```
 $　cd ~/catkin_ws/src
 $ git clone https://github.com/KatiMaiko/robosys_kadai2.git
@@ -27,6 +27,7 @@ twice.pyではcount.pyで出力したデータとidを受け取り出力する�
 端末1$　cd catkin_ws/src
 端末2　端末4$ cd catkin_ws/src
 端末3$ cd catkin_ws
+
 端末1$ roscore
 端末2$ chmod +x count.py
 端末2$ rosrun mypkg count.py
