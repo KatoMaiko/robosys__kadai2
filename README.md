@@ -13,8 +13,9 @@ OS:Ubuntu 20.04
 ```
 $　cd ~/catkin_ws/src
 $ git clone https://github.com/KatiMaiko/robosys_kadai2.git
-→catkin_wsに置く
 ```
+→catkin_wsに置く
+
 
 ## 内容
 count.pyにより現在時刻（秒）が出力される
