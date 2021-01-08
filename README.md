@@ -12,7 +12,7 @@ OS:Ubuntu 20.04
 ## インストール
 ```
 $　cd ~/catkin_ws/src
-$ git clone https://github.com/KatiMaiko/robosys_kadai2.git
+$ git clone https://github.com/KatiMaiko/robosys__kadai2.git
 ```
 →catkin_wsに置く
 
